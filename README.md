@@ -21,3 +21,10 @@ Recent cybersecurity graduate with foundational knowledge of network security, i
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-1679A7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
+## Certificates
+<img src="https://img.shields.io/badge/-Google%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
+## Projects
+-Created Virtual Machine 
+-Microsoft Sentinel (SIEM Tool)
